@@ -150,12 +150,13 @@ filehasnotchanged() {
 		return 1
 	fi
 
+	moddate=$(date -r "${f}" +%s)
+
 	if [ ! -f "${f}.date" ]; then
-		date -r "${f}" +%s > "${f}.date"
+		printf "%s\n" "${moddate}" > "${f}.date"
 		return 1
 	fi
 
-	moddate=$(date -r "${f}" +%s)
 	if [ "$(cat "${f}.date")" = "${moddate}" ]; then
 		return 0
 	fi
@@ -295,15 +296,6 @@ mkhtml() {
 		URI="${URI}.${PAGELANGUAGE}"
 	fi
 
-	for f in "${FILE}.md" "${FOOTERFILE}" "${NAVFILE}" "${TEMPLATE}"; do
-		if [ "${f}" = "" ]; then continue; fi
-		filehasnotchanged "${f}" || NEEDCHANGE="y"
-	done 
-
-	if [ "${NEEDCHANGE}" = "n" ] && [ -f "${FILE}.html" ]; then
-		return 0
-	fi
-
 	if [ "${FOOTERFILE}" = "" ]; then
 		if [ -f "${SITEDIR}/site/footer.include" ]; then
 			FOOTERFILE="${SITEDIR}/site/footer.include"
@@ -335,6 +327,15 @@ mkhtml() {
 				TEMPLATE="${SITEDIR}/site/template.${PAGELANGUAGE}.include"
 			fi
 		fi
+	fi
+
+	for f in "${FILE}.md" "${FOOTERFILE}" "${NAVFILE}" "${TEMPLATE}"; do
+		if [ "${f}" = "" ]; then continue; fi
+		filehasnotchanged "${f}" || NEEDCHANGE="y"
+	done
+
+	if [ "${NEEDCHANGE}" = "n" ] && [ -f "${FILE}.html" ]; then
+		return 0
 	fi
 
 	# The news and sitemap function need to know this
@@ -753,6 +754,9 @@ buildsite() {
 	done
 	for f in $(cat "${FILELIST}"); do
 		filehasnotchanged "${f}" || SITECHANGED="y"
+		if [ "${SITECHANGED}" = "y"  ]; then
+			printf "File changed: %s\n" "${f}"
+		fi
 	done
 	rm -f "${FILELIST}"
 
