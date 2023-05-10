@@ -64,22 +64,6 @@ $endif$
 $if(return)$
 $return$
 $endif$
-$if(toc)$
-<nav id="$idprefix$TOC">
-<h1>Navigate this page:</h1>
-$toc$
-</nav>
-$endif$
-$if(toc)$
-<div class="pagetext">
-$endif$
-$body$
-$for(include-after)$
-$include-after$
-$endfor$
-$if(toc)$
-</div>
-$endif$
 </div>
 </body>
 </html>
