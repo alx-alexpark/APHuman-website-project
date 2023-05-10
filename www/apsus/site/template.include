@@ -54,9 +54,9 @@ $if(date)$
 $endif$
 <ul>
 <li><a href="/">Home</a></li>
-<li><a href="/faq.html">Country1</a></li>
-<li><a href="/download.html">Country2</a></li>
-<li><a href="/git.html">Country3</a></li>
+<li><a href="/kr.html">South Korea</a></li>
+<li><a href="/mx.html">Mexico</a></li>
+<li><a href="/ss.html">South Sudan</a></li>
 </ul>
 <hr/>
 </header>
