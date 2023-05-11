@@ -4,8 +4,8 @@ x-toc-enable: true
 ...
 At a glance:
 
-**HDI:** <br/>
+**HDI: 2.374 Trillion** <br/>
 **GII:** <br/>
 **GDP:**  <br/>
-**GNI per capita:**  <br/>
+**GNI: 2.374 Trillion**  <br/>
 **Percentage of pop. with internet access:**  <br/>
