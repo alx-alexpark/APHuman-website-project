@@ -13,11 +13,12 @@ Comparing development using statistics and data visualization
 
 ## Metrics we compare
 For each country, we compare the following values.
+
 - GNI per capita
 - HDI
 - GNI
 - Percentage of population with access to the internet
-- etc...
+- Total GDP
 
 
 
