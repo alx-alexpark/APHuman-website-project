@@ -14,7 +14,7 @@ x-toc-enable: true
 
 <img src="https://cloud-jkmbshxbl-hack-club-bot.vercel.app/0human-development-index.png" alt="Graph of Korea's HDI">
 
-As the graph shows, Korea has been developing significantly recently.  
+As the graph shows, Korea has been developing significantly recently. The value being close to 1.00 indicates a high level of human development.
 
 <img src="https://files.catbox.moe/krqlt3.png" alt="Graph of Korea's GDP">
 
