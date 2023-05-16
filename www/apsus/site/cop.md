@@ -9,21 +9,13 @@ When comparing the two countries, we can see major differences in the way that t
 ## Looking at the **Similarities:**
 When looking at the nature of the two countries, we can see that both of them are growing  economicaly, structurally, and development even though their economies are diffrent. This is true because of the DTM and the ETM as it explains that countries go through a patteren as they develop.
 
-# Graphs
-
-## Korea's HDI
-<img src="https://cloud-jkmbshxbl-hack-club-bot.vercel.app/0human-development-index.png" alt="Graph of Korea's HDI">
-
-## Nigeria's HDI
-<img src="https://files.catbox.moe/7uixyq.png" alt="Graph of Nigeria's HDI">
+# Graphs<br>
+##HDI
+<img src="https://files.catbox.moe/95xwuk.png">
 
 As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure.
-
-## Korea's GDP
-<img src="https://files.catbox.moe/krqlt3.png" alt="Graph of Korea's GDP">
-
-## Nigeria's GDP
-<img src="https://files.catbox.moe/dgtdvh.png" alt="Graph of Nigeria's GDP">
+##GDP
+<img src="https://files.catbox.moe/lmkkq5.png">
 
 The GDP shows the same thing happen.
 
