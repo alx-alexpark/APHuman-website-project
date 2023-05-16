@@ -1,27 +1,37 @@
 ---
-title: Comparing development - South Korea
+title: Comparing The Development - Nigeria & South Korea
 x-toc-enable: true
 ...
-# At a glance:
+# In Summary:
+## Seeing the **Differences**
+### When comparing the two countries, we can see major differences in the way that they function and how they operate. In Nigeria, we see that the country is based on primary agriculture as for Korea, we see that it is focused on the secondary sector of laybor, focusing on manufacturing rather than extracting natural resources.
 
-**HDI:** 0.93  <br/>
-**GII:** 0.07  <br/>
-**GDP:** 1.644 Trillion  <br/>
-**GNI:** 2.374 Trillion  <br/>
-**Percentage of pop. with internet access:**  <br/>
+## Looking at the **Similarities**
+### When looking at the nature of the two countries, we can see that both of them are growing  economicaly, structurally, and development even though their economies are diffrent. This is true because of the DTM and the ETM as it explains that countries go through a patteren as they develop.
 
 # Graphs
 
+## Korea's HDI
 <img src="https://cloud-jkmbshxbl-hack-club-bot.vercel.app/0human-development-index.png" alt="Graph of Korea's HDI">
 
-As the graph shows, Korea has been developing significantly recently. The value being close to 1.00 indicates a high level of human development.
+## Nigeria's HDI
+<img src="https://files.catbox.moe/7uixyq.png" alt="Graph of Nigeria's HDI">
 
+As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure.
+
+## Korea's GDP
 <img src="https://files.catbox.moe/krqlt3.png" alt="Graph of Korea's GDP">
 
-Viewing this graph, you can see that Korea has experienced extremely rapid economic growth in the last 50 years.
+## Nigeria's GDP
+<img src="https://files.catbox.moe/dgtdvh.png" alt="Graph of Nigeria's GDP">
 
-<img src="https://files.catbox.moe/7yfpcr.png" alt="Graph of Korea's GII">
+The GDP shows the same thing happen.
 
-Koera is considered a `semi-periphery` according to the Wallerstein's World Systems theory.
-One *limitation* of the Wallerstein's World Systems theory is
-the *deciding* factor of countries being predefined to a catagory in the model, not factoring in the change in economy a country can progress economically.
+## Korea's Job Sectors
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.38north.org%2Fwp-content%2Fuploads%2F2019%2F02%2F19-0215_Chesser-Graph-3_Initial-Dismantlement.jpg.png&f=1&nofb=1&ipt=6210eb3e502699b55820c6f5cbc90c178cadc1cb04a4f49be0dd4c02267624c1&ipo=images" alt="Korea">
+
+## Lagos' Job Sectors
+*note\* Lagos is a Primate City in Nigera*
+<img src="https://i2.wp.com/www.internetgeography.net/wp-content/uploads/2018/01/Lagos-Employment-Structure.png?resize=1006%2C860" alt="Lagos">
+
+These graphs depict the differing economies that the two countries have.
