@@ -10,10 +10,10 @@ When comparing the two countries, we can see major differences in the way that t
 When looking at the nature of the two countries, we can see that both of them are growing  economicaly, structurally, and development even though their economies are diffrent. This is true because of the DTM and the ETM as it explains that countries go through a patteren as they develop.
 
 # Graphs<br>
-##HDI
+## HDI
 <img src="https://files.catbox.moe/95xwuk.png">
 
-As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure.
+As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure.<br>
 ##GDP
 <img src="https://files.catbox.moe/lmkkq5.png">
 
