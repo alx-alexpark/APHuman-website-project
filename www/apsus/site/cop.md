@@ -7,24 +7,22 @@ x-toc-enable: true
 When comparing the two countries, we can see major differences in the way that they function and how they operate. In Nigeria, we see that the country is based on primary agriculture as for Korea, we see that it is focused on the secondary sector of laybor, focusing on manufacturing rather than extracting natural resources.
 
 ## Looking at the **Similarities:**
-When looking at the nature of the two countries, we can see that both of them are growing  economicaly, structurally, and development even though their economies are diffrent. This is true because of the DTM and the ETM as it explains that countries go through a patteren as they develop.
+When looking at the nature of the two countries, we can see they grow similarly, just at different times. 
 
 # Graphs<br><br>
 ## HDI:
 <img src="https://files.catbox.moe/95xwuk.png">
 
-As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure.<br><br>
+As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure. As of right now, Nigeria's HDI is significantly less than South Korea's HDI.<br><br>
 ## GDP
 <img src="https://files.catbox.moe/lmkkq5.png">
 
-The GDP shows the same thing happen.
+The GDP shows the same thing happen. An interesting pattern you can see is that until 1980, South Korea and Nigeria both were not very economically developed, but South Korea experienced a much higher rate of economic growth. However, GDP can often be an inaccurate measure of economic development because not all countries are the same size and have the same number of workers.
 
 ## Korea's Job Sectors
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.38north.org%2Fwp-content%2Fuploads%2F2019%2F02%2F19-0215_Chesser-Graph-3_Initial-Dismantlement.jpg.png&f=1&nofb=1&ipt=6210eb3e502699b55820c6f5cbc90c178cadc1cb04a4f49be0dd4c02267624c1&ipo=images" alt="Korea">
+<img src="https://files.catbox.moe/6cr48m.png" alt="Korea">
 
-## Lagos' Job Sectors
-*note\* Lagos is a Primate City in Nigera*<br>
+## Nigeria's Job Sectors
+<img src="https://files.catbox.moe/raliqq.png" alt="Lagos">
 
-<img src="https://i2.wp.com/www.internetgeography.net/wp-content/uploads/2018/01/Lagos-Employment-Structure.png?resize=1006%2C860" alt="Lagos">
-
-These graphs depict the differing economies that the two countries have.
+These graphs depict the differing economies that the two countries have. South Korea has a mainly service based economy, indicating development. Nigeria's economy is also highly service based, however a larger percentage of the population participates in agriculture, an showing that Nigeria's economy is slightly less developed. An interesting pattern found in both graphs but at different times is how the number of people working in the service sector can temporarily boom, then temporarily decline.
