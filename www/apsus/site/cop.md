@@ -14,12 +14,13 @@ When looking at the nature of the two countries, we can see they grow similarly,
 <img src="https://files.catbox.moe/95xwuk.png">
 
 As you can see, Nigeria's and Korea's HDI have grown as they tend to improve in their economy, education, health, and structure. As of right now, Nigeria's HDI is significantly less than South Korea's HDI.<br><br>
+
 ## GDP:<br>
 <img src="https://files.catbox.moe/lmkkq5.png">
 
 The GDP shows the same thing happen. An interesting pattern you can see is that until 1980, South Korea and Nigeria both were not very economically developed, but South Korea experienced a much higher rate of economic growth. However, GDP can often be an inaccurate measure of economic development because not all countries are the same size and have the same number of workers.
 
-## Economic Sector Enployment<br><br>
+## Economic Sector Enployment<br>
 <img src="https://files.catbox.moe/6cr48m.png">
 
 These graphs depict the differing economies that the two countries have. South Korea has a mainly service based economy, indicating development. Nigeria's economy is also highly service based, however a larger percentage of the population participates in agriculture, an showing that Nigeria's economy is slightly less developed. An interesting pattern found in both graphs but at different times is how the number of people working in the service sector can temporarily boom, then temporarily decline.
